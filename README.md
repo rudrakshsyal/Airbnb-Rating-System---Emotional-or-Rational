@@ -1,4 +1,4 @@
-##### Airbnb-Rating-System---Emotional-or-Rational #####
+# Airbnb-Rating-System---Emotional-or-Rational
 
 As a customer or a potential investor who lists properties on Airbnb, one would always be interested in determining the quality of the listing. The rating score is one of the indicators which every stakeholder looks forward to, in order to gauge this metric. It is often observed that this is not an accurate indicator. As an example, the average rating for all listings across Airbnb stand at 4.7 with 94% of all the listings being rated above 4.5. This is much higher than ratings on other hotel sites like TripAdvisor.
 
